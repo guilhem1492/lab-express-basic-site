@@ -1,0 +1,12 @@
+body {
+  background-color: darkgray;
+  margin: 3rem;
+  font-size: 1.2rem;
+  color: darkblue;
+}
+
+li, a {
+  color: darkred;
+  text-decoration: none;
+}
+
